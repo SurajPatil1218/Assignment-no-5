@@ -1,4 +1,4 @@
-# Assignment 5: Working with Dictionaries and List Operations
+# Assignment 5: Data Structure and String in Python
 Problem Statement
 
 # Task 1: Searching for Student Marks Using a Dictionary
